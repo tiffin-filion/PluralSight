@@ -88,8 +88,6 @@ section {
 }
 
 .brand {
-  width: 170px;
-  height: 85px;
   margin-left: -15px;
   margin-right: 60px;
 }
@@ -143,11 +141,6 @@ section {
   font-size: 14px;
 }
 
-.profile-pic {
-  width: 60px;
-  height: 60px;
-}
-
 .profile-pic img {
   border-radius: 100px;
   max-width: 100%;
@@ -189,10 +182,6 @@ section {
   border-top: 1px solid #a0a0a0;
   border-bottom: 1px solid #a0a0a0;
   padding: 25px 0;
-}
-
-.banner img {
-  width: 250px;
 }
 
 .banner-text {
